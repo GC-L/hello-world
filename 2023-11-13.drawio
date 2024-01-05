@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T08:21:27.330Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="80iBomPmxFuzWvLbWzdX" version="22.1.16" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-05T08:56:55.120Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Xi_sMv4eUps7eOFQCEwb" version="22.1.16" type="github" pages="2">
   <diagram name="2023-11-14 00:12:41" id="VXZyrihvDa2prKkC_Pbu">
     <mxGraphModel dx="1694" dy="1901" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -778,22 +778,34 @@
           <mxGeometry x="246.5" y="431" width="69" height="26" as="geometry" />
         </mxCell>
         <mxCell id="uZDy_apk_RQcF1nhPr15-4" value="clamour" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="419" y="863" width="61" height="26" as="geometry" />
+          <mxGeometry x="357" y="831" width="61" height="26" as="geometry" />
         </mxCell>
         <mxCell id="uZDy_apk_RQcF1nhPr15-5" value="striking" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="244.5" y="915" width="56" height="26" as="geometry" />
+          <mxGeometry x="464" y="784" width="56" height="26" as="geometry" />
         </mxCell>
         <mxCell id="uZDy_apk_RQcF1nhPr15-6" value="pirate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="293.75" y="811" width="48" height="26" as="geometry" />
+          <mxGeometry x="509" y="841" width="48" height="26" as="geometry" />
         </mxCell>
         <mxCell id="uZDy_apk_RQcF1nhPr15-7" value="attest" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="563" y="888" width="47" height="26" as="geometry" />
+          <mxGeometry x="403" y="855" width="47" height="26" as="geometry" />
         </mxCell>
         <mxCell id="uZDy_apk_RQcF1nhPr15-8" value="minimise" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="471" y="802" width="65" height="26" as="geometry" />
+          <mxGeometry x="289.25" y="901" width="65" height="26" as="geometry" />
         </mxCell>
         <mxCell id="uZDy_apk_RQcF1nhPr15-10" value="imaginative" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="460" y="952" width="79" height="26" as="geometry" />
+          <mxGeometry x="472" y="924" width="79" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="uZDy_apk_RQcF1nhPr15-11" value="profit" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="452" y="885" width="45" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="uZDy_apk_RQcF1nhPr15-12" value="decrepit" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="373" y="898" width="61" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="uZDy_apk_RQcF1nhPr15-21" value="ignorant" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="382.25" y="941" width="61" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="uZDy_apk_RQcF1nhPr15-22" value="mastery" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540.25" y="888" width="61" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
