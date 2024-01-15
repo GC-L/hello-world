@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T03:03:11.632Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Ao32YFlajSVsmdAxLGjt" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T03:05:15.385Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="vuZReRvyoXbu8y15Djqa" version="22.1.18" type="github">
   <diagram name="2023-11-14 00:12:41" id="VXZyrihvDa2prKkC_Pbu">
     <mxGraphModel dx="1907" dy="609" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1173,6 +1173,9 @@
         </mxCell>
         <mxCell id="bE8wJvbnwO8kKP7T7WSy-2" value="as 做连接词&lt;br&gt;&quot;I always try to translate every sentence into English in my mind, as I think it can enhance my English skills.&quot;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-813.0000000000001" y="1620" width="591" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="bE8wJvbnwO8kKP7T7WSy-3" value="There are some issue at this device&lt;br&gt;I usually consider how to express my idea in English&lt;br&gt;I am concerned about the dual wan with C8300 in SYD15&lt;br&gt;I always translate Chinese sentence which I want to say&amp;nbsp; into English in my mind&lt;br&gt;I always try to translate every sentences into English in my mind, I think which can promote my English" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-812" y="1661" width="563" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
